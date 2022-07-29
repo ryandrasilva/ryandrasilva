@@ -1,5 +1,5 @@
-<h1 align="center">Hello, Welcome.</h1>
-<h3 align="center">I'm Ryandra Silva, programming creator!</h3>
+<h1 align="center">Hello, Welcome!</h1>
+<h3 align="center">I'm Ryandra Silva, programming creator.</h3>
 <img align="right" height="511em" 
 <h1 align="left">This is my GIT profile🙋‍♀️</h1>
 <p align="left"> <img src="https://github.com/ryandrasilva.png"/> </p>
