@@ -3,7 +3,6 @@
 <img align="right" height="511em" 
 <h1 align="left">This is my GIT profile🙋‍♀️</h1>
 <p align="left"> <img src="https://github.com/ryandrasilva.png"/> </p>
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/manufacturetocat/">
 
 <p align="right"> <a href="https://twitter.com/mirelle_ryandra" target="blank"><img src="https://img.shields.io/twitter/follow/mirelle_ryandra?logo=twitter&style=for-the-badge" alt="mirelle_ryandra" /></a> </p>
 
